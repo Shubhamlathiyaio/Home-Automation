@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "871509634870",
+    "firebase_url": "https://home-automation-bb68e-default-rtdb.firebaseio.com",
+    "project_id": "home-automation-bb68e",
+    "storage_bucket": "home-automation-bb68e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871509634870:android:93a7583d9a564b73f10d97",
+        "android_client_info": {
+          "package_name": "com.divol.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcST6QommJ_m1KXi0frCGk1o03mNsNLnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
